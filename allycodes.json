@@ -150,10 +150,11 @@
   "userIcon": "<:enemy:626856026674823170>"
   },
   {
-  "name": "<@!392184699981660160>",
+  "name": "",
   "comment": "Dagobah Systems Inc",
   "allyCode": "659888857",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "392184699981660160"
   },
   {
   "name": "",
