@@ -1,381 +1,506 @@
 [
   {
-  "name": "<@!392184699981660160>",
+  "name": "",
   "comment": "Nephariouz",
   "allyCode": "782392276",
-  "userIcon": ":flag_us:"
+  "userIcon": ":flag_us:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": "392184699981660160"
   },
   {
   "name": "",
   "comment": "DaGoMan",
   "allyCode": "272234596",
-  "userIcon": ":flag_br:"
+  "userIcon": ":flag_br:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "DaGoBoy",
   "allyCode": "925529886",
-  "userIcon": ":flag_br:"
+  "userIcon": ":flag_br:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Burritos",
   "allyCode": "529567833",
-  "userIcon": ":flag_us:"
+  "userIcon": ":flag_us:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Napalm99",
   "allyCode": "567777951",
-  "userIcon": ":flag_us:"
+  "userIcon": ":flag_us:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Whitt Happens",
   "allyCode": "737212476",
-  "userIcon": ":flag_us:"
+  "userIcon": ":flag_us:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "MongoXray",
   "allyCode": "856476847",
-  "userIcon": ":flag_us:"
+  "userIcon": ":flag_us:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "1",
   "allyCode": "911438753",
-  "userIcon": ":flag_jp:"
+  "userIcon": ":flag_jp:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
-  "name": "<@!277453444921425921>",
+  "name": "",
   "comment": "MasterAndres",
   "allyCode": "974986617",
-  "userIcon": ":flag_ec:"
+  "userIcon": ":flag_ec:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": "277453444921425921"
   },
   {
   "name": "",
   "comment": "Proxy",
   "allyCode": "738594451",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
-  "name": "<@!309167331056025610>",
+  "name": "",
   "comment": "ArtUSA",
   "allyCode": "394157951",
-  "userIcon": ":flag_us:"
+  "userIcon": ":flag_us:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": "309167331056025610"
   },
   {
   "name": "",
   "comment": "Wilan Wilbo",
   "allyCode": "953563671",
-  "userIcon": ":flag_gb:"
+  "userIcon": ":flag_gb:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Wes",
   "allyCode": "731683779",
-  "userIcon": ":flag_ca:"
+  "userIcon": ":flag_ca:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Captain Nemo",
   "allyCode": "199445688",
-  "userIcon": ":flag_no:"
+  "userIcon": ":flag_no:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Tiric Thorn",
   "allyCode": "339216667",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Reoprnn",
   "allyCode": "229536118",
-  "userIcon": ":flag_ua:"
+  "userIcon": ":flag_ua:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Krasinha",
   "allyCode": "899798391",
-  "userIcon": ":flag_us:"
+  "userIcon": ":flag_us:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Starseven",
   "allyCode": "966266747",
-  "userIcon": ":flag_jp:"
+  "userIcon": ":flag_jp:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Bot",
   "allyCode": "267725235",
-  "userIcon": ":flag_us:"
+  "userIcon": ":flag_us:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Lazerbeem",
   "allyCode": "673976751",
-  "userIcon": ":flag_us:"
+  "userIcon": ":flag_us:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Wes Terallo",
   "allyCode": "747375297",
-  "userIcon": ":flag_ca:"
+  "userIcon": ":flag_ca:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "DAW DarkSunny",
   "allyCode": "895936945",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Cerveza",
   "allyCode": "266174561",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Ixuba of Xedloca",
   "allyCode": "761229431",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Coldworld",
   "allyCode": "561255766",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Dagobah Systems Inc",
   "allyCode": "659888857",
   "userIcon": "<:enemy:626856026674823170>",
-  "tagIdOnClimb": "392184699981660160"
+  "tagIdOnClimb": "392184699981660160",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Curacaobill",
   "allyCode": "826536189",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Samu",
   "allyCode": "924417664",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "BJ1111",
   "allyCode": "769857758",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "MrPeanut",
   "allyCode": "194394812",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Deel Jade DAW",
   "allyCode": "675176613",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Obi Dave",
   "allyCode": "753627475",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Yellowcake90",
   "allyCode": "815233782",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Flica Zhu Awl",
   "allyCode": "465679977",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "ChairmanPao",
   "allyCode": "485413785",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "DarthYogurt",
   "allyCode": "243412236",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Tavianax",
   "allyCode": "248464859",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Charlena M",
   "allyCode": "164684165",
-  "userIcon": ":flag_au:"
+  "userIcon": ":flag_au:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Tarathor",
   "allyCode": "659153952",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "SaT",
   "allyCode": "895224822",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Taarn Venoda",
   "allyCode": "593725134",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "DarthCannabis",
   "allyCode": "186968137",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Moltrin DIceni",
   "allyCode": "744463293",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Raas Lividious",
   "allyCode": "244155219",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Dkong",
   "allyCode": "145953626",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Sinnetr",
   "allyCode": "522188968",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Tirel Boyok",
   "allyCode": "497928473",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Ethan Torrell",
   "allyCode": "469344695",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "H3adcharg3 MH",
   "allyCode": "276187149",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "FEEDZEKE",
   "allyCode": "828378391",
-  "userIcon": ":flag_us:"
+  "userIcon": ":flag_us:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "MaestroGil",
   "allyCode": "637982241",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Klatz",
   "allyCode": "927359359",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Jimbo",
   "allyCode": "147343266",
-  "userIcon": ":flag_gb:"
+  "userIcon": ":flag_gb:",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "PIKKE",
   "allyCode": "363177595",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "VENOM",
   "allyCode": "251543448",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "MAKC",
   "allyCode": "351647497",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Jedibookworm13",
   "allyCode": "783853837",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Wat Tambor",
   "allyCode": "435771229",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Ari Gold",
   "allyCode": "855752171",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Der Badeimperator",
   "allyCode": "228417948",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "Enridez",
   "allyCode": "868267432",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "pashtet585",
   "allyCode": "966569211",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   },
   {
   "name": "",
   "comment": "kashnum",
   "allyCode": "275516538",
-  "userIcon": "<:enemy:626856026674823170>"
+  "userIcon": "<:enemy:626856026674823170>",
+  "tagIdOnClimb": "",
+  "tagIdOnDrop": ""
   }
 ]
